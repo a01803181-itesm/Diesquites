@@ -11,6 +11,7 @@ Ligas de acceso a recursos:
 
 - Diseños de Figma para los layouts del sistema:
  Diseño 1: https://www.figma.com/design/oNsPmvuEft0fWBIAlgOh0J/Sin-t%C3%ADtulo?node-id=0-1&m=dev&t=yys2oVzC8gvPCmej-1
+ Diseño 2: https://www.figma.com/design/siqFV6B4asdSFH9Zrbdges/Diesquites?node-id=4-36521&t=bo4PIL4oJAGTJW3K-0
 
 - Backlog:
   https://www.canva.com/design/DAHELJSjs1c/iE95g-3j7YSEn9VMuSSHpQ/edit?utm_content=DAHELJSjs1c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
@@ -20,4 +21,6 @@ Ligas de acceso a recursos:
   
 - Template Reporte de Venta:
   https://docs.google.com/document/d/1unYC3mS8Z85KIP2YIfgnVIuv5ZfO_bTB_LR5oZ8Alz8/edit?tab=t.0
+
+
   
